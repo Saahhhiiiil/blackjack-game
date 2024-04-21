@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(images/casino.jpeg);
+    background-size: cover;
+    text-align: center;
+    font-size: 62.5%;
+}
+
+h1 {
+    font-size: 5rem;
+    color: goldenrod;
+    font-weight: bold;
+}
+
+h2 , h3 {
+    font-size: 3rem;
+    color: white;
+    font-weight: bold;
+}
+
+h2 {
+    font-style: italic;
+}
+    
+button {
+    height: 5rem;
+    width: 20rem;
+    border: 0;
+    border-radius: 2rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: goldenrod;
+    color: #016f32;
+    margin: 0 0.5rem;
+}
